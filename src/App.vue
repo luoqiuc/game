@@ -7,6 +7,7 @@
         <!-- <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink> -->
         <RouterLink to="/test-game">测试游戏</RouterLink>
+        <RouterLink to="/test-game2">测试游戏2</RouterLink>
         <!-- 其他链接 -->
       </nav>
     </header>
